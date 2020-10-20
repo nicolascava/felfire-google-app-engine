@@ -2,6 +2,8 @@
 
 > Google App Engine plugin for Felfire
 
+> ❌ Sorry, but this library is no longer maintained. Please find an alternative.
+
 ## Getting started
 
 Felfire Google App Engine is part of the [Felfire](https://github.com/nicolascava/felfire) plugin ecosystem.
