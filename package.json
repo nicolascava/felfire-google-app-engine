@@ -1,7 +1,7 @@
 {
   "name": "felfire-google-app-engine",
-  "description": "Google App Engine plugin for Felfire",
-  "version": "1.0.1",
+  "description": "[UNMAINTAINED] Google App Engine plugin for Felfire",
+  "version": "1.0.2",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-eslint": "^8.0.2",
